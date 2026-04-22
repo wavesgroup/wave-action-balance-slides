@@ -44,6 +44,4 @@ Velocity gradient loses both structure and magnitude.
 <img src="assets/normalized_gradient_magnitude_t0381.png">
 
 Normalized velocity gradient $k\epsilon$ (recall that $\epsilon$ must remain small).
-
-$\epsilon$ is $\mathcal{O}(0.01)
 </section>
