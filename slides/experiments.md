@@ -50,7 +50,7 @@ $$
 
 ### Experiment 1: No currents
 
-<img src="../assets/simulations/without-currents/surface_grid_L0150m_action1d_k1_t0000.png">
+<img src="assets/simulations/without-currents/surface_grid_L0150m_action1d_k1_t0000.png">
 </section>
 
 
@@ -58,7 +58,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 150-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L0150m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L0150m_action1d_k1_t0600.png">
 </section>
 
 
@@ -66,7 +66,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 300-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L0300m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L0300m_action1d_k1_t0600.png">
 </section>
 
 
@@ -74,7 +74,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 600-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L0600m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L0600m_action1d_k1_t0600.png">
 </section>
 
 
@@ -82,7 +82,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 1200-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L1200m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L1200m_action1d_k1_t0600.png">
 </section>
 
 
@@ -90,7 +90,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 2400-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L2400m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L2400m_action1d_k1_t0600.png">
 </section>
 
 
@@ -98,7 +98,7 @@ $$
 
 ### Experiment 2: With currents, no subgrid strain, 4800-m resolution
 
-<img src="../assets/simulations/without-strain/surface_grid_L4800m_action1d_k1_t0600.png">
+<img src="assets/simulations/without-strain/surface_grid_L4800m_action1d_k1_t0600.png">
 </section>
 
 
@@ -107,7 +107,7 @@ $$
 
 ### Experiment 3: With currents + subgrid strain, 300-m resolution
 
-<img src="../assets/simulations/with-strain/surface_grid_L0300m_action1d_k1_t0600.png">
+<img src="assets/simulations/with-strain/surface_grid_L0300m_action1d_k1_t0600.png">
 </section>
 
 
@@ -115,7 +115,7 @@ $$
 
 ### Experiment 3: With currents + subgrid strain, 600-m resolution
 
-<img src="../assets/simulations/with-strain/surface_grid_L0600m_action1d_k1_t0600.png">
+<img src="assets/simulations/with-strain/surface_grid_L0600m_action1d_k1_t0600.png">
 </section>
 
 
@@ -123,7 +123,7 @@ $$
 
 ### Experiment 3: With currents + subgrid strain, 1200-m resolution
 
-<img src="../assets/simulations/with-strain/surface_grid_L1200m_action1d_k1_t0600.png">
+<img src="assets/simulations/with-strain/surface_grid_L1200m_action1d_k1_t0600.png">
 </section>
 
 
@@ -131,7 +131,7 @@ $$
 
 ### Experiment 3: With currents + subgrid strain, 2400-m resolution
 
-<img src="../assets/simulations/with-strain/surface_grid_L2400m_action1d_k1_t0600.png">
+<img src="assets/simulations/with-strain/surface_grid_L2400m_action1d_k1_t0600.png">
 </section>
 
 
@@ -139,5 +139,5 @@ $$
 
 ### Experiment 3: With currents + subgrid strain, 4800-m resolution
 
-<img src="../assets/simulations/with-strain/surface_grid_L4800m_action1d_k1_t0600.png">
+<img src="assets/simulations/with-strain/surface_grid_L4800m_action1d_k1_t0600.png">
 </section>

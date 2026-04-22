@@ -15,7 +15,7 @@ During the 24-hour propagation of a wave train over a submesoscale front:
   </div>
   
   <div style="flex: 1.5;">
-    <img width="450" src="../assets/compare_simulations_relchange_panels.png">
+    <img width="450" src="assets/compare_simulations_relchange_panels.png">
   </div>
 
 </div>
