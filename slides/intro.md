@@ -135,4 +135,6 @@ $$
 * $U \frac{\partial N}{\partial x}$: Wave advection by mean currents
 * $N \frac{\partial U}{\partial x}$: Wave strain by mean currents
 * $\frac{1}{2} N \frac{\partial u'}{\partial x}$: Wave strain by subgrid-scale currents
+
+What is the effect of unresolved currents on wave propagation?
 </section>
